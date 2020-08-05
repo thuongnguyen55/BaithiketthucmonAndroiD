@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Baithiketthucmon</string>
+    <string name="Tinh">Tính</string>
+    <string name="Nhap" />
+    <string name="textview">Tính Tổng</string>
+    <string name="Ketqua">Kết quả</string>
+    <string name="textview1" />
+    <string name="quaylai">Quay lại</string>
+</resources>
